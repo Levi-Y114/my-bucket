@@ -1,0 +1,8 @@
+{
+    "version": "latest",
+    "homepage": "https://epicbrowser.com",
+    "license": "Freeware",
+    "url": "https://cdn.epicbrowser.com/epic_installer.exe",
+    "hash": "sha256:YOUR_HASH_HERE",
+    "bin": "epic_installer.exe"
+}
