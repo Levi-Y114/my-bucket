@@ -1,0 +1,19 @@
+{
+    "version": "1.0.0",
+    "url": "https://r2-app.eagle.cool/releases/Eagle-4.0-x64-build7.exe",
+    "hash": "78CA03D76AAA5B296393C3653E4CE2FF6653325AF5EB33D053B545FB5E6064B3",
+    "installer": {
+        "program": "eagle-setup-x64-1.0.0.exe",
+        "args": "/S"
+    },
+    "bin": [
+        "eagle.exe"
+    ],
+    "shortcuts": [
+        [
+            "eagle.exe",
+            "Eagle"
+        ]
+    ],
+    "description": "Eagle is a powerful image and asset management tool."
+}
