@@ -1,6 +1,6 @@
 {
     "version": "1.0.0",
-    "url": "https://appdownload.deepl.com/windows/0install/DeepLSetup.exe",
+    "url": "https://www.deepl.com/zh/app/thanks?os=windows",
     "hash": "C0824599DEC4170E272C800EB24F1CADC582D3F3DD6F351AFA52B95DD4E81967",
     "installer": {
         "program": "DeepLSetup.exe",
